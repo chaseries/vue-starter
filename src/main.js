@@ -1,5 +1,6 @@
 // Transpiles to Babel
 
-const adder = (x, y) => x + y;
+const main = function main() {
+  console.log("It works!");
+};
 
-logger('Everything is set up.');
