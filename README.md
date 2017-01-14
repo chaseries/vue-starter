@@ -1,4 +1,4 @@
-# Es2015 Starter
+# es2015 Starter
 
 ## Why
 
