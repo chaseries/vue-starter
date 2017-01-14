@@ -15,4 +15,4 @@ Navigate to `localhost:8080` and voilà! You're all set up.
 
 ## Dear newer users:
 
-The development server is serving `index.html` from `/build/`. Don't modify `main.js` in this folder at all! (Your changes will be overwritten.) Instead write to `src/main.js`. When this becomes unwieldy, do yourself a favor and look at MDN's introduction to the es2015 module system.
+The `./run.sh` file starts Webpack's development server. This server is serving `index.html` from `/build/`. Don't modify `main.js` in this folder at all! (Your changes will be overwritten.) Instead write to `src/main.js`. When this becomes unwieldy, do yourself a favor and look at MDN's introduction to the es2015 module system.
