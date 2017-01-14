@@ -19,12 +19,13 @@ Navigate to `localhost:8080` and voilà! You're all set up.
 
 ## Dear newer users:
 
-### What's all this?
+### Getting started
 
 I've tried to make this as easy as possible to get off the ground, because I remember what a pain it was to get started with this ecosystem. There is no clear-cut path, and there are so many choices! I tried to keep mine minimal. They are:
 
-* Webpack (to build everything with)
-* ESLint (to tell you why you're an idiot—hugely important)
+* Webpack (to build everything)
+* Babel (for transpiling back down from ES2015 syntax)
+* ESLint (to tell you why you're an idiot—hugely important!)
 
 ### More details
 
