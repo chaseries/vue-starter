@@ -4,3 +4,4 @@ const main = function main() {
   console.log("It works!");
 };
 
+main();
