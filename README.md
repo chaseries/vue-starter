@@ -1,6 +1,10 @@
 # Es2015 Starter
 
-## How to use it
+## Why
+
+A tiny repository for easily experimenting with modern JavaScript.
+
+## How 
 
 **Note**: This assumes you have Node and npm installed. If not, do that first!
 
@@ -15,4 +19,4 @@ Navigate to `localhost:8080` and voilà! You're all set up.
 
 ## Dear newer users:
 
-The `./run.sh` file starts Webpack's development server. This server is serving `index.html` from `/build/`. Don't modify `main.js` in this folder at all! (Your changes will be overwritten.) Instead write to `src/main.js`. When this becomes unwieldy, do yourself a favor and look at MDN's introduction to the es2015 module system.
+The `./run.sh` file starts Webpack's development server. This server is serving `index.html` from `build/`. Don't modify `main.js` in `build/` at all! (Your changes will be overwritten.) Instead write to `src/main.js`. When this becomes unwieldy, do yourself a favor and look at MDN's introduction to the es2015 module system.
