@@ -4,7 +4,7 @@
 
 **Note**: This assumes you have Node and npm installed. If not, do that first!
 
-Clone this repository (`git clone https://github.com/chaseries/es2015-starter`), then `cd` into it and run the following commands:
+Clone this repository, then `cd` into your newly-minted directory and run the following:
 
 ```
 $ npm i
