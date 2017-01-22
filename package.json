@@ -1,5 +1,5 @@
 {
-  "name": "babel-starter",
+  "name": "es2015-starter",
   "version": "0.1.0",
   "description": "",
   "main": "src/main.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "Chase Ries",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.18.0",
