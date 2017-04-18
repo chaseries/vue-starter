@@ -1,15 +1,2 @@
-*, *:before, *:after {
-  box-sizing: border-box;
-}
-
-html, body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-}
-
-body {
-  text-align: center;
-  padding: 20px;
-  border: 10px solid #222;
-}
+@import 'global/normalize';
+@import 'global/override';
