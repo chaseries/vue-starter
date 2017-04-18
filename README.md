@@ -1,8 +1,8 @@
-# es2015 Starter
+# Vue Starter
 
 ## Why
 
-A tiny repository for easily experimenting with modern JavaScript.
+A tiny repository for easily experimenting with modern Vue.
 
 ## How 
 
